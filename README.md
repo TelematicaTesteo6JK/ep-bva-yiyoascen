@@ -8,27 +8,37 @@ Upload the following documents:
    EXAMPLE
    
    1) Implementation of the function
+   
    LIBRARY.H
 
    bool my_function(float v) {
+   
      // Function implementation
+     
    }
    
    2) Implementation of the tests
+   
    TESTS.CPP
 
    #include <iostream>
    #include "library.h"
    int main() {
    // Test cases for EP calling the function in the library
+   
    // Test cases for BVA calling the function in the library
+   
    // Generate report to observe the outcome of the test cases
+   
    }
   
    3) Report with the resulting table 
+   
    REPORT.TXT
+   
  
    Test data | Expected result | Actual result | Pass/Fail
+   
    ...
    
    
