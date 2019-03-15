@@ -6,6 +6,7 @@ Upload the following documents:
    3) Report with the resulting table: text document produced by executing 2).
    
    EXAMPLE
+   ----------------------------------
    
    1) Implementation of the function
    
@@ -17,6 +18,7 @@ Upload the following documents:
      
    }
    
+   ----------------------------------
    2) Implementation of the tests
    
    TESTS.CPP
@@ -35,6 +37,7 @@ Upload the following documents:
    
    }
   
+  ----------------------------------
    3) Report with the resulting table 
    
    REPORT.TXT
