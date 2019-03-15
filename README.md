@@ -9,14 +9,14 @@ Upload the following documents:
    
    1) Implementation of the function
    LIBRARY.H
-   ------------
+
    bool my_function(float v) {
      // Function implementation
    }
    
    2) Implementation of the tests
    TESTS.CPP
-   ---------
+
    #include <iostream>
    #include "library.h"
    int main() {
@@ -27,7 +27,7 @@ Upload the following documents:
   
    3) Report with the resulting table 
    REPORT.TXT
-   ----------
+ 
    Test data | Expected result | Actual result | Pass/Fail
    ...
    
